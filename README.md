@@ -38,15 +38,25 @@ Description of data columns:
 The following tasks were carried out in Python during project preparation:
 
 1- Data exploration.
+
 2- Data cleaning and preparation.
+
 3- ETL - Extracting Transforming Loading process.
+
 4- Feature engineering.
+
 5- Data exploration.
+
 6- Data explanation.
+
 7- Data preprocessing for the model.
+
 8- Model Building.
+
 9- Model evaluation.
+
 10- Model improving and re-evaluation.
+
 11- Data visualization.
 
 In the repository, I uploaded a Python script.
